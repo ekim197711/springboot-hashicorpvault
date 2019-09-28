@@ -1,0 +1,15 @@
+{
+  "policies": [
+    "mikesapp"
+  ],
+  "meta": {
+    "user": "mike",
+    "app": "mikes new app"
+  },
+  "ttl": "4h",
+  "renewable": false,
+  "orphan": false,
+  "type": "service",
+  "num_uses": 0,
+  "display_name": "1 time use token for Mikes app"
+}

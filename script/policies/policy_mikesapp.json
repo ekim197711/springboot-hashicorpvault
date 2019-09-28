@@ -1,0 +1,3 @@
+path "mikesapp/*" {
+  capabilities = ["create", "read", "update", "delete", "list"]
+}
